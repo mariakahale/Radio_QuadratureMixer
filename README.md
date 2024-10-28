@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-The Radio Quadrature Mixer project focused on the design and implementation of filters, limiters, and mixers within a Software-Defined Radio (SDR) framework. This project involved rigorous testing and refinement phases to ensure optimal performance and reliability.
+The Radio Quadrature Mixer project focused on the design and implementation of filters, limiters, and mixers within a Software-Defined Radio (SDR) framework. This project involved rigorous testing and refinement phases to ensure optimal performance and reliability. Full Project Presentation below.
 
 ## Launching Phase
 
@@ -47,3 +47,8 @@ Created detailed PCB layouts in Altium Designer, focusing on component placement
 <p align="center">
 <img width="350" src="https://github.com/user-attachments/assets/dafe8d2d-cfca-468c-8ae1-d4f93e45d666">
 </p>
+
+
+### Full Project Presentation
+[OP2 _ Subsystem A - Team A2.pdf](https://github.com/user-attachments/files/17543879/OP2._.Subsystem.A.-.Team.A2.pdf)
+
