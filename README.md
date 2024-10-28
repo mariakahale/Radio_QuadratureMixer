@@ -1,10 +1,14 @@
 # Radio Quadrature Mixer  
 **Software-Defined Radio (SDR) Design: Implemented Filters, Limiters, and Mixers (Best Design)**
 
+## Project Overview
+
+The Radio Quadrature Mixer project focused on the design and implementation of filters, limiters, and mixers within a Software-Defined Radio (SDR) framework. This project involved rigorous testing and refinement phases to ensure optimal performance and reliability.
+
 ## Launching Phase
 
 ### Debugging PCB using Voltage Probes  
-Ensuring proper signal flow and identifying any discrepancies within the circuitry. This phase involved testing critical points with precision voltage probes for stable performance.
+In this phase, I ensured proper signal flow and identified any discrepancies within the circuitry. Using precision voltage probes, I tested critical points for stable performance.
 
 <p align="center">
 <img width="350" src="https://github.com/user-attachments/assets/9605355d-7e3b-4464-9986-26fdc4e0ff14">
